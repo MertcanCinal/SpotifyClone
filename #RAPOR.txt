@@ -1,0 +1,11 @@
+bu projemde html5 & css3 ile spotify arayüzü oluşturdum.
+"sidebar", "main container" içinde "topbar" ve "navbar" kullandım.
+"div" içinde "class" tanımladım ve çalma listeleri oluşturdum daha sonra onları kategorize etttim.
+sitemin altında önizleme bölümü oluşturdum. bu bölüme "linear-gradient" kullanarak renk geçişi sağladım.
+
+*******************************
+
+In this project, I created a spotify interface with html5 & css3.
+I used "topbar" and "navbar" in "sidebar", "main container".
+I defined "class" in "div" and created playlists then categorized them.
+I created a preview section at the bottom of my site. I provided color transition to this section using "linear-gradient".
